@@ -1,10 +1,10 @@
 # SXSS_CSP_Bypass
-Analiza złośliwego skryptu, który potwierdza, że im prostszy payload tym lepszy. Grupa, która korzystała z tego, oszukała ludzi na 300000 dolarów co potwierdza ich public key na solscanie. Niestety ślad potym sie urywa, korzystają z monero. Udało mi się dostrzec, że z jedego community wyciągają do 20 SOL od akcji.
+Analiza złośliwego skryptu, który potwierdza, że im prostszy payload tym lepszy. Grupa, która korzystała z tego, oszukała ludzi na 300000 dolarów co potwierdza ich public key na solscanie. Niestety ślad potym sie urywa, korzystają z monero. Udało mi się dostrzec, że z jedego community wyciągają od 5 SOL od akcji.
 Ich metoda polegała głównie na Social Engineeringu, wzbudzali zaufanie, pokazując fake ballance i suckesy w trade'ach na rynku kryptowalut.
 
 ## Oto E-Discovery i Inwestygacja:
 
-Zaczynamy od strony, z której korzystali, aby wrobić idiotów w pobranie bookmarklet. Strona zrobiona z szablonów z tailwind po 100 dolarów za szablon. Domena z GoDaddy. Na pierwszy rzut oka widać, że coś tu nie gra.
+Zaczynamy od strony, z której korzystali, aby wrobić bardzo mądrych jak i zarazem doświadczonych w pobranie bookmarklet. Strona zrobiona z szablonów z tailwind po 100 dolarów za szablon. Domena z GoDaddy. Na pierwszy rzut oka widać, że coś tu nie gra.
 
 
 <img width="1419" height="1013" alt="bam" src="https://github.com/user-attachments/assets/884df192-09a8-48f7-a9d0-937d0ecf906c" />
