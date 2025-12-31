@@ -51,3 +51,4 @@ Możliwe, że pod adresem kryje się API, które wymaga uwierzytelnienia, albo w
 
 Nie mam proxy do gobustera, więc nie zrobie directory Traversal, inwestygacja będzie kontynuowana. może uda się coś zagrać z C2.
 
+STAY SAFE
