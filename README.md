@@ -1,1 +1,1 @@
-# SXSS_CSPBypass
+# SXSS_CSP_Bypass
