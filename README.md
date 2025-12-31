@@ -53,4 +53,5 @@ Nie mam proxy do gobustera, więc nie zrobie directory Traversal, inwestygacja b
 
 STAY SAFE
 
-<img width="835" height="1435" alt="proof" src="https://github.com/user-attachments/assets/856f137c-fe0e-40d5-9494-9e14155c0792" />
+
+<img width="890" height="1453" alt="poroog2" src="https://github.com/user-attachments/assets/5d4c685c-6640-4768-b987-0225af1e3adb" />
