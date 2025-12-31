@@ -29,7 +29,7 @@ Widzimy tutaj skrypt, który zamieszał:
 
 Poszkodowani są manipulowani, żeby wejść na stronę i pobrać bookamrklt, aby móc sprawdzać projekty kryptowalutowe, które mogą być RugPullami XD. Użytkownik pobiera skrypt, który będzie zapisany jako bookmarklt. Kiedy używa platformy do Tradingu, próbuje sprawdzić projekt narzędziem napisanym przez Scammerów.
 
-Są na tyle poczuci, że jeżeli trader nie znaduje się na axiomie zostaje do niego przekierowany.
+Są na tyle poczuci, że jeżeli trader nie znaduje się na axiomie zostaje do niego przekierowany i musisz być zalogowany bo inaczej wyskakuje alert.
 
 ##### Użytkownik jest na axiom Vector Ataku CSP ByPass przy pomocy Audio:
 
