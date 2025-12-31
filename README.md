@@ -49,5 +49,5 @@ Cannot: GET / może być podpowiedzią, że trzeba użyć innej metody HTTP (np.
 
 Możliwe, że pod adresem kryje się API, które wymaga uwierzytelnienia, albo właczają coś tylko na akcje. 
 
-Nie mam proxy do gobustera, więc nie zrobie directory Traversal, inwestygacja będzie kontynuowana. może uda się coś dowiedzieć więcej C2.
+Nie mam proxy do gobustera, więc nie zrobie directory Traversal, inwestygacja będzie kontynuowana. może uda się coś zagrać z C2.
 
