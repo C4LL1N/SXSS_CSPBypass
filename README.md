@@ -27,7 +27,7 @@ Widzimy tutaj skrypt, który zamieszał:
 
 ##### Możemy odtworzyć historię jak to miało wyglądać:
 
-Poszkodowani są manipulowani, żeby wejść na stronę i pobrać bookamrklt, aby móc sprawdzać projekty kryptowalutowe, które mogą być RugPullami XD. Użytkownik pobiera skrypt, który będzie zapisany jako bookmarklt. Kiedy używa platformy do Tradingu, próbuje sprawdzić projekt narzędziem napisanym przez Scammerów.
+Poszkodowani są manipulowani, żeby wejść na stronę i pobrać bookamrklt, aby móc sprawdzać projekty kryptowalutowe, które mogą być RugPullami. Użytkownik pobiera skrypt, który będzie zapisany jako bookmarklt. Kiedy używa platformy do Tradingu, próbuje sprawdzić projekt narzędziem napisanym przez Scammerów.
 
 Są na tyle poczuci, że jeżeli trader nie znaduje się na axiomie zostaje do niego przekierowany i musisz być zalogowany bo inaczej wyskakuje alert.
 
@@ -50,6 +50,7 @@ Cannot: GET / może być podpowiedzią, że trzeba użyć innej metody HTTP (np.
 Możliwe, że pod adresem kryje się API, które wymaga uwierzytelnienia, albo właczają coś tylko na akcje. 
 
 Nie mam proxy do gobustera, więc nie zrobie directory Traversal, inwestygacja będzie kontynuowana. może uda się coś zagrać z C2.
+Myślę ,że C2 komunikuje sie z telegramem co potwierdza endpoint API bt -> bottelegram  
 
 STAY SAFE
 
